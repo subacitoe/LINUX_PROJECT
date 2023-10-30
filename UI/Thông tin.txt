@@ -1,0 +1,7 @@
+- Map trường, phòng máy và phòng server
+- Trạng thái: hoàn thành
+- Ngày hoàn thành: 27/10/2023
+
+Nguyễn Hào Quang: Map trường, map phòng máy
+
+Nguyễn Dương Tấn Lợi: Map phòng server
